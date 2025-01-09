@@ -1,0 +1,10 @@
+C:\Users\Ja\source\repos\binarysearchtree\binarysearchtree\obj\Debug\binarysearchtree.csproj.AssemblyReference.cache
+C:\Users\Ja\source\repos\binarysearchtree\binarysearchtree\obj\Debug\binarysearchtree.Form1.resources
+C:\Users\Ja\source\repos\binarysearchtree\binarysearchtree\obj\Debug\binarysearchtree.Properties.Resources.resources
+C:\Users\Ja\source\repos\binarysearchtree\binarysearchtree\obj\Debug\binarysearchtree.csproj.GenerateResource.cache
+C:\Users\Ja\source\repos\binarysearchtree\binarysearchtree\obj\Debug\binarysearchtree.csproj.CoreCompileInputs.cache
+C:\Users\Ja\source\repos\binarysearchtree\binarysearchtree\bin\Debug\binarysearchtree.exe.config
+C:\Users\Ja\source\repos\binarysearchtree\binarysearchtree\bin\Debug\binarysearchtree.exe
+C:\Users\Ja\source\repos\binarysearchtree\binarysearchtree\bin\Debug\binarysearchtree.pdb
+C:\Users\Ja\source\repos\binarysearchtree\binarysearchtree\obj\Debug\binarysearchtree.exe
+C:\Users\Ja\source\repos\binarysearchtree\binarysearchtree\obj\Debug\binarysearchtree.pdb
