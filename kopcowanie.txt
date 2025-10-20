@@ -1,0 +1,56 @@
+namespace WinFormsApp2
+{
+    public partial class Form1 : Form
+    {
+        internal class Wezel
+        {
+            public Wezel rodzic;
+            public Wezel dzieckoLewe;
+            public Wezel dzieckoPrawe;
+            public int wartosc;
+            public Wezel Dodaj(int liczba)
+            {
+                Wezel dziecko = new Wezel(liczba);
+                if (this.dzieckoLewe == null)
+                {
+                    this.dzieckoLewe = dziecko;
+                }
+                else if(this.dzieckoPrawe == null)
+                {
+                    this.dzieckoPrawe = dziecko;
+                }
+                else
+                {
+                    throw new Exception("error");
+                }
+                dziecko.rodzic = this;
+                return dziecko;
+        }
+
+        internal class Drzewo
+        {
+            public Wezel korzen;
+            public int liczba_elem;
+            public Wezel Dodaj(int liczba)
+                {
+                    var rodzic = this.Znajdz_Rodzica();
+                    return rodzic.Dodaj(liczba);
+                }
+
+#do domu znajdz rodzica(inkrementacaj liczby elem, reszta z dzielenia)
+                public void przywroc_wlasnosc_kopca(Wezel);
+            Wezel Znajdz_Rodzica();
+        }
+
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
