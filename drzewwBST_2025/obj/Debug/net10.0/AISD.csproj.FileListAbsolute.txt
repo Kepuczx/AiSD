@@ -1,0 +1,14 @@
+C:\AISD\bin\Debug\net10.0\AISD.exe
+C:\AISD\bin\Debug\net10.0\AISD.deps.json
+C:\AISD\bin\Debug\net10.0\AISD.runtimeconfig.json
+C:\AISD\bin\Debug\net10.0\AISD.dll
+C:\AISD\bin\Debug\net10.0\AISD.pdb
+C:\AISD\obj\Debug\net10.0\AISD.GeneratedMSBuildEditorConfig.editorconfig
+C:\AISD\obj\Debug\net10.0\AISD.AssemblyInfoInputs.cache
+C:\AISD\obj\Debug\net10.0\AISD.AssemblyInfo.cs
+C:\AISD\obj\Debug\net10.0\AISD.csproj.CoreCompileInputs.cache
+C:\AISD\obj\Debug\net10.0\AISD.dll
+C:\AISD\obj\Debug\net10.0\refint\AISD.dll
+C:\AISD\obj\Debug\net10.0\AISD.pdb
+C:\AISD\obj\Debug\net10.0\AISD.genruntimeconfig.cache
+C:\AISD\obj\Debug\net10.0\ref\AISD.dll
